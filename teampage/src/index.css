@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-image: url("https://th.bing.com/th/id/OIP.Zv4_udP1HBp4HUWjKrOZNQHaEK?pid=ImgDet&rs=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
